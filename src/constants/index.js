@@ -89,32 +89,39 @@ export const stats = [
 ];
 
 export const footerLinks = [
-  {
+  { 
+    id: "footer-1",
     title: "Useful Links",
     links: [
-      {
+      { 
+        id: "link-1",
         name: "Content",
         link: "https://www.hoobank.com/content/",
       },
-      {
+      { 
+        id: "link-2",
         name: "How it Works",
         link: "https://www.hoobank.com/how-it-works/",
       },
-      {
+      { 
+        id: "link-3",
         name: "Create",
         link: "https://www.hoobank.com/create/",
       },
-      {
+      { 
+        id: "link-4",
         name: "Explore",
         link: "https://www.hoobank.com/explore/",
       },
-      {
+      { 
+        id: "link-5",
         name: "Terms & Services",
         link: "https://www.hoobank.com/terms-and-services/",
       },
     ],
   },
-  {
+  { 
+    id: "footer-2",
     title: "Community",
     links: [
       {
@@ -139,7 +146,8 @@ export const footerLinks = [
       },
     ],
   },
-  {
+  { 
+    id: "footer-3",
     title: "Partner",
     links: [
       {
